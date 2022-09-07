@@ -13,3 +13,10 @@ Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, originally named **Prince of Wal
 1. Nearest Airport to Museum is Chhatrapati Shivaji Maharaj International Airport.
 2. We can also opt for Public Transport from Railway station to Museum.
 3. They also have provide Shuttles to visit Museum.
+
+### places Near Mumbai
+
+* Thana
+* Lonavala
+* pune
+* Nashik
