@@ -23,3 +23,15 @@ Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, originally named **Prince of Wal
 
 
 Click [Here](AboutMe.md) to re-direct to AboutMe.md
+
+***
+
+ 
+
+
+|   City   |   Location   | Time |
+| :---: | :---: | -----: |
+|   Hyderabad  |   Charminar   |    2 hours    |
+|   Maryville   |    Mozingo Lake  |    1 hour    |
+|   Arkansas   |   Bentonville   |    1 hour    |
+|   Delaware   |   King of Persia mall   |    2 hours    |
