@@ -45,4 +45,28 @@ Click [Here](AboutMe.md) to re-direct to AboutMe.md
 
 >  "Don't cry because it's over. Smile because it happened." - _Dr. Seuss_
 
+***
 
+> Gradient Underlined Text - [stackoverflow.com](https://stackoverflow.com/questions/62724189/gradient-underlined-text)
+
+```
+a {
+  position: relative;
+  padding-bottom: 2px;
+  text-decoration: none;
+}
+
+a:hover::after {
+  content: "";
+  position: absolute;
+  bottom: 2px;
+  left: 0;
+  height: 1px;
+  width: 100%;
+  background: #444;
+  background: linear-gradient(left, transparent 0%,#444 50%,transparent 100%);
+ }
+
+ ```
+
+ [Link](https://css-tricks.com/snippets/css/gradient-underlines/) Link to code snippet source
