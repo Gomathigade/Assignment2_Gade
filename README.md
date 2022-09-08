@@ -35,3 +35,14 @@ Click [Here](AboutMe.md) to re-direct to AboutMe.md
 |   Maryville   |    Mozingo Lake  |    1 hour    |
 |   Arkansas   |   Bentonville   |    1 hour    |
 |   Delaware   |   King of Persia mall   |    2 hours    |
+
+
+***
+
+>  "And now that you don't have to be perfect, you can be good." - _John Steinbeck_
+
+<br>
+
+>  "Don't cry because it's over. Smile because it happened." - _Dr. Seuss_
+
+
